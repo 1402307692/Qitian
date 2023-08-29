@@ -2,9 +2,8 @@
 # -*- coding: UTF-8 -*-
 '''
 @Project ：project 
-@File    ：icp.py
 @IDE     ：PyCharm 
-@Author  ：齐天小写
+@Author  ：齐天
 @Date    ：2023/8/26 19:09 
 '''
 import argparse
